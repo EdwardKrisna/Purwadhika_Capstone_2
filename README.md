@@ -39,5 +39,6 @@ The analysis of green cab operations in New York City reveals several areas for 
 
 By implementing these recommendations, CMT and VeriFone can address current challenges and improve their operational performance, ensuring a sustainable and competitive future in New York City's taxi industry.
 
-Link to tableau dashboard : 
-Link to tableau story : 
+Link to tableau dashboard : <https://public.tableau.com/views/Dashboard_NCYTLC_Capstone2/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link>
+
+Link to tableau story : <https://public.tableau.com/shared/W9J7G5CMH?:display_count=n&:origin=viz_share_link>
