@@ -4,7 +4,7 @@
 
 Green cabs, introduced to extend taxi services to NYC's outer boroughs and upper Manhattan, play a crucial role in urban transportation. In 2023, Creative Mobile Technologies (CMT) and VeriFone, the two primary vendors managing green cabs, faced significant challenges that impacted their operations and revenue. These challenges included competition from ride-sharing giants like Uber and Lyft, regulatory hurdles, rising fuel costs, and customer service issues.
 
-CMT focused on enhancing fare payment systems by collaborating with VeriFone to integrate payment apps, aiming to simplify and secure the payment process for passengers and drivers alike. However, this partnership was marred by a legal dispute over advertising revenue sharing, leading to operational difficulties and impacting the overall efficiency and revenue of green taxis​​ ([Mordor Research](https://www.mordorintelligence.com/)).
+CMT focused on enhancing fare payment systems by collaborating with VeriFone to integrate payment apps, aiming to simplify and secure the payment process for passengers and drivers alike. However, this partnership was marred by a legal dispute over advertising revenue sharing, leading to operational difficulties and impacting the overall efficiency and revenue of green taxis.
 
 ## Main Problem
 
